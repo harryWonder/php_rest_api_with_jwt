@@ -1,0 +1,9 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "Dobri Next -C02- Indigo",
+    "workbench.colorTheme": "Default Dark+",
+    "open-php-html-js-in-browser.selectedBrowser": "Chrome",
+    "editor.scrollBeyondLastLine": false,
+    "files.useExperimentalFileWatcher": true
+}
